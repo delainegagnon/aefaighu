@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://gungahfim.lolie.es/sitemap.xml
